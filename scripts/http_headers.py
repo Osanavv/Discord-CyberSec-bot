@@ -119,4 +119,5 @@ if __name__ == "__main__":
         sys.exit(1)
     
     url = sys.argv[1]
+
     sys.exit(analyze_http_headers(url))

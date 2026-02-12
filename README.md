@@ -18,7 +18,6 @@ All-in-one Discord bot for cybersecurity toolkit. Reconnaissance, analysis, and 
 ![Discord.js](https://img.shields.io/badge/discord.js-v14-blue)
 ![Python](https://img.shields.io/badge/python-3.8+-green)
 ![Node.js](https://img.shields.io/badge/node.js-v16+-brightgreen)
-![License](https://img.shields.io/badge/license-MIT-orange)
 
 ---
 
